@@ -1,4 +1,4 @@
-export defauexport default function Page() {
+export default function Page() {
   const whatsappUrl =
     "https://wa.me/18302451333?text=Hi%20ProjetaPro%2C%20I%27d%20like%20to%20schedule%20an%20electrical%20panel%20inspection.%20My%20address%20is%3A%20";
 
